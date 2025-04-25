@@ -9,7 +9,7 @@ I am a college graduate who recently graduated from West Texas A&M University. I
 - I am a hard worker.
 
 # Projects
--[Running Shoe Store Website] (https://github.com/Coltonaycock12/Colton-Aycock-Final-Project) - Full-featured e-commerce running shoe website. 
+-[Running Shoe Store Website] (https://github.com/Coltonaycock12/Colton-Aycock-Final-Project) - Full-featured e-commerce running shoe store website. 
 -[Pizza Ordering Application] (https://github.com/Coltonaycock12/CIDM2315/blob/main/Colton_Aycock_Final_Proj_2.cs) - Application that allows customers to order whatever pizza they would like to buy and the customer(s) can buy the pizza(s) using the application. 
 
 # Languages I've Used
