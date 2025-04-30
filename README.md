@@ -1,22 +1,18 @@
 # Hi, I'm Colton Aycock 
 
-I am a college graduate who recently graduated from West Texas A&M University. I am interested in gaining more knowledge in the IT Field. I am interested in Software development, Web application development, and IT Help desk roles.
+Computer Information Systems grad
+Web and mobile app enthusiast 
+Data, logic, and solving real-world problems with code
 
-#Traits about me
-- I am patient.
-- I am a fast learner.
-- I pay attention to detail.
-- I am a hard worker.
+## Projects
+-[Running Shoe Store Website (C#, CSS, HTML, and JavaScript)](https://github.com/Coltonaycock12/Colton-Aycock-Final-Project) 
+-[Pizza Ordering App (C# and JavaScript)](https://github.com/Coltonaycock12/CIDM2315/blob/main/Colton_Aycock_Final_Proj_2.cs) 
+-[Reminders Android App (Kotlin)](https://github.com/Coltonaycock12/Reminders) 
 
-# Projects
--[Running Shoe Store Website] (https://github.com/Coltonaycock12/Colton-Aycock-Final-Project) - Full-featured e-commerce running shoe store website. 
--[Pizza Ordering Application] (https://github.com/Coltonaycock12/CIDM2315/blob/main/Colton_Aycock_Final_Proj_2.cs) - Application that allows customers to order whatever pizza they would like to buy and the customer(s) can buy the pizza(s) using the application. 
+##Skills 
+C# • Python • JavaScript • Kotlin • HTML • CSS • ASP.NET • MySQL • MSSQL • VS Code • Visual Studio 2022 • Android Studio • Power BI 
 
-# Languages I've Used
--Programming: C#, C++, Python, R, PowerShell, Kotlin, JavaScript
--Web Development: HTML, CSS, ASP.NET
--Database: MySQL, MS SQL
--Tools and Platforms: VS Code, Visual Studio 2022, Android Studio, Power BI, Excel, Word, PowerPoint
+
 
 
 
