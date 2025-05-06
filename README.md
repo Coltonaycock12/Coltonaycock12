@@ -4,6 +4,9 @@ Computer Information Systems grad
 Web and mobile app enthusiast 
 Data, logic, and solving real-world problems with code
 
+## Resume
+Link to my resume: file:///C:/Colton/Resume/Colton_Aycock_Resume_4_2025_r3_pdf.pdf
+
 ## Projects
 -[Running Shoe Store Website (C#, CSS, HTML, and JavaScript)](https://github.com/Coltonaycock12/Colton-Aycock-Final-Project) 
 -[Pizza Ordering App (C# and JavaScript)](https://github.com/Coltonaycock12/CIDM2315/blob/main/Colton_Aycock_Final_Proj_2.cs) 
